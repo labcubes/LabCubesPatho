@@ -1,0 +1,11 @@
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\bin\Debug\netcoreapp2.0\LabCubes.Data.deps.json
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\bin\Debug\netcoreapp2.0\LabCubes.Data.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\bin\Debug\netcoreapp2.0\LabCubes.Data.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\bin\Debug\netcoreapp2.0\LabCubes.Utilities.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\bin\Debug\netcoreapp2.0\LabCubes.Utilities.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.csprojResolveAssemblyReference.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.csproj.CoreCompileInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.AssemblyInfoInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.AssemblyInfo.cs
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Data\obj\Debug\netcoreapp2.0\LabCubes.Data.pdb

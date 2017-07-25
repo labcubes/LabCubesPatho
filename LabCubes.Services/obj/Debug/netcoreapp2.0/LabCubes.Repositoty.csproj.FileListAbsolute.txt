@@ -1,0 +1,13 @@
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Repositoty.deps.json
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Repositoty.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Repositoty.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Data.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Models.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Data.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\bin\Debug\netcoreapp2.0\LabCubes.Models.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.csprojResolveAssemblyReference.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.csproj.CoreCompileInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.AssemblyInfoInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.AssemblyInfo.cs
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Services\obj\Debug\netcoreapp2.0\LabCubes.Repositoty.pdb

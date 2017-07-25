@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  labcubes.api:
+    image: labcubes.api
+    build:
+      context: ./LabCubes.API
+      dockerfile: Dockerfile

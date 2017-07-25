@@ -1,0 +1,9 @@
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\bin\Debug\netcoreapp2.0\LabCubes.Models.deps.json
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\bin\Debug\netcoreapp2.0\LabCubes.Models.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\bin\Debug\netcoreapp2.0\LabCubes.Models.pdb
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.csprojResolveAssemblyReference.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.csproj.CoreCompileInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.AssemblyInfoInputs.cache
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.AssemblyInfo.cs
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.dll
+F:\LabCubues Project\LabCubes\LabCubes\LabCubes.Models\obj\Debug\netcoreapp2.0\LabCubes.Models.pdb
